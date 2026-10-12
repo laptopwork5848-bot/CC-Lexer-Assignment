@@ -1,0 +1,8 @@
+start
+int x = 10;
+if (x <= 40) {
+    show("Hello Tiny Language");
+} else {
+    x = 0;
+}
+end
